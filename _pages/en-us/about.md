@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Idoso ranzinza na era das máquinas.
 
 profile:
   align: right
@@ -25,4 +25,3 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Idoso ranzinza na era das máquinas.

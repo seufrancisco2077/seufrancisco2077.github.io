@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: sobre
 permalink: /
-subtitle: <a href='#'>Afiliações</a>. Endereço. Contatos. Lema. Etc.
+subtitle: Idoso ranzinza na era das máquinas.
 
 profile:
   align: right
@@ -17,5 +17,3 @@ latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
-Idoso ranzinza na era das máquinas.
