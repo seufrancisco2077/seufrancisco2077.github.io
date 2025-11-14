@@ -481,30 +481,4 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/en-us" + updatedUrl;
           },
-        },{
-      id: 'light-theme',
-      title: 'Muda o tema para claro',
-      description: 'Muda o tema do site para claro',
-      section: 'Tema',
-      handler: () => {
-        setThemeSetting("light");
-      },
-    },
-    {
-      id: 'dark-theme',
-      title: 'Muda o tema para escuro',
-      description: 'Muda o tema do site para escuro',
-      section: 'Tema',
-      handler: () => {
-        setThemeSetting("dark");
-      },
-    },
-    {
-      id: 'system-theme',
-      title: 'Usa o tema padrão do sistema',
-      description: 'Muda o tema do site para o padrão do sistema',
-      section: 'Tema',
-      handler: () => {
-        setThemeSetting("system");
-      },
-    },];
+        },];
